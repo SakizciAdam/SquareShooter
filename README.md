@@ -16,3 +16,8 @@ Then select join a game. Enter their IP. If the host does not know their IP. Tel
 
 Contributions are always welcome!
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
